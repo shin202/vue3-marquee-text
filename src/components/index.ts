@@ -1,0 +1,1 @@
+export { default as MarqueeText } from "./MarqueeText.vue";
