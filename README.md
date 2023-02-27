@@ -29,10 +29,10 @@
   <p align="center">
     Marquee text for VueJs3
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://shin202.github.io/vue3-marquee-text"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shin202/vue3-marquee-text">View Demo</a>
+    <a href="https://shin202.github.io/vue3-marquee-text">View Demo</a>
     ·
     <a href="https://github.com/shin202/vue3-marquee-text/issues">Report Bug</a>
     ·
